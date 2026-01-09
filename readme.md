@@ -2,7 +2,9 @@
 
 ## Auswahl
 TypeScript: Programmiersprache, basiert auf JavaScript, aber strukturierter
+
 React: JavaScript-Framework für Webseiten
+
 Three.js: JavaScript-Bibliothek für 3D-Grafiken im Browser
 
 ## Entscheidung
