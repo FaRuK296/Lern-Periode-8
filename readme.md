@@ -8,7 +8,7 @@ React: JavaScript-Framework für Webseiten
 Three.js: JavaScript-Bibliothek für 3D-Grafiken im Browser
 
 
-Ich habe mich für TypeScript entschieden. React und Three.js sind zwar interessant, aber für diese Lernperiode zu komplex. TypeScript eignet sich gut, da es eine klare Struktur hat, schnell ein Hello-World-Programm möglich ist und ich mich auf die Grundlagen konzentrieren kann. Ausserdem kann ich mein bestehendes JavaScript-Wissen verbessern und erweitern.
+Ich habe mich für TypeScript entschieden. TypeScript eignet sich gut, da es eine klare Struktur hat, schnell ein Hello-World-Programm möglich ist und ich mich auf die Grundlagen konzentrieren kann. Ausserdem kann ich mein bestehendes JavaScript-Wissen verbessern und erweitern.
 
 
 Heute habe ich mich mit TypeScript beschäftigt. Ich habe ein Hello-World-Programm erstellt und gelernt, dass TypeScript vor dem Ausführen zu JavaScript kompiliert werden muss. Dabei habe ich verstanden, dass TypeScript durch Typen frühzeitig bei Fehlern hilft, während JavaScript direkt ausgeführt wird. Das Programm konnte ich erfolgreich mit tsc und node im VS Code Terminal ausführen.
