@@ -15,9 +15,18 @@ Heute habe ich mich mit TypeScript beschäftigt. Ich habe ein Hello-World-Progra
 Folgendes Turorial hat mir geholfen das Konzept von Typescript zu verstehen: https://www.youtube.com/watch?v=5IOK_ksHnCo
 
 ## 16.01.26
-- [ ] Einfaches html für die schere stein papier erstellen
-- [ ] Tutorial für typescript durcharbeiten [https://www.youtube.com/watch?v=jBmrduvKl5w](https://www.youtube.com/watch?v=tA1N4V0HnLI)
-- [ ] TypeScript-Code kompilieren und im Browser testen.
-- [ ] Eine kleine eigene Anpassung am Projekt machen (z.B. Text ändern oder zusätzliche Ausgabe).
+- [x] Einfaches html für die schere stein papier erstellen
+- [x] Tutorial für typescript durcharbeiten [https://www.youtube.com/watch?v=jBmrduvKl5w](https://www.youtube.com/watch?v=tA1N4V0HnLI)
+- [x] TypeScript-Code kompilieren und im Browser testen.
+- [x] Eine kleine eigene Anpassung am Projekt machen (z.B. Text ändern oder zusätzliche Ausgabe).
+
+Heute habe ich ein einfaches HTML für ein Schere-Stein-Papier-Spiel erstellt. Ausserdem habe ich ein TypeScript-Tutorial durchgearbeitet, den Code kompiliert und im Browser getestet. Während dem Turtorial bin ich einmal steckengeblieben und habe viel Zeit verloren, obwohl es ein einfacher Syntaxfehler war. Ausserdem habe ich gemerkt, dass im Turorial wenig fokus auf Typescript gesetzt wird. Mit dem will ich sagen, dass man diesen Code fast hätte auch einfach in Javascript schreiben können. Deswegen werde ich nächstes mal versuchen die Verschiedenheiten von Typescript und Javascript mehr zu nutzen.
+
+## 21.01.26
+- [ ] Typescript mehr ausnutzen (Code ändern, dass er nicht in javascript ausführbar ist)
+- [ ] Html seite erweitern (Feld erstellen auf dem man das spiel spielen kann)
+- [ ] css datei erstellen (die seite schlich designen, sodass es nicht zu trocken wird)
+- [ ] Spiellogik im Script erstellen (z.B der erste der drei hat, gewinnt)
+- [ ] Projekt abschliessen und testen (z.B Fehler prüfen, Code aufräumen/kommentieren, im Browser ausführlich testen und final hochladen )
 
 
