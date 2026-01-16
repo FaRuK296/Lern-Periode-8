@@ -15,9 +15,9 @@ Heute habe ich mich mit TypeScript beschäftigt. Ich habe ein Hello-World-Progra
 Folgendes Turorial hat mir geholfen das Konzept von Typescript zu verstehen: https://www.youtube.com/watch?v=5IOK_ksHnCo
 
 ## 16.01.26
-- [ ] Einfaches html für die Todolist erstellen
-- [ ] Tutorial für ToDoList durcharbeiten https://www.youtube.com/watch?v=jBmrduvKl5w
-- [ ] TypeScript-Code kompilieren und die TODO-Liste im Browser testen.
+- [ ] Einfaches html für die schere stein papier erstellen
+- [ ] Tutorial für typescript durcharbeiten [https://www.youtube.com/watch?v=jBmrduvKl5w](https://www.youtube.com/watch?v=tA1N4V0HnLI)
+- [ ] TypeScript-Code kompilieren und im Browser testen.
 - [ ] Eine kleine eigene Anpassung am Projekt machen (z.B. Text ändern oder zusätzliche Ausgabe).
 
 
