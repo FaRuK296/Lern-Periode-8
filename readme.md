@@ -23,10 +23,10 @@ Folgendes Turorial hat mir geholfen das Konzept von Typescript zu verstehen: htt
 Heute habe ich ein einfaches HTML für ein Schere-Stein-Papier-Spiel erstellt. Ausserdem habe ich ein TypeScript-Tutorial durchgearbeitet, den Code kompiliert und im Browser getestet. Während dem Turtorial bin ich einmal steckengeblieben und habe viel Zeit verloren, obwohl es ein einfacher Syntaxfehler war. Ausserdem habe ich gemerkt, dass im Turorial wenig fokus auf Typescript gesetzt wird. Mit dem will ich sagen, dass man diesen Code fast hätte auch einfach in Javascript schreiben können. Deswegen werde ich nächstes mal versuchen die Verschiedenheiten von Typescript und Javascript mehr zu nutzen.
 
 ## 21.01.26
-- [ ] Typescript mehr ausnutzen (Code ändern, dass er nicht in javascript ausführbar ist)
-- [ ] Html seite erweitern (Feld erstellen auf dem man das spiel spielen kann)
-- [ ] css datei erstellen (die seite schlich designen, sodass es nicht zu trocken wird)
-- [ ] Spiellogik im Script erstellen (z.B der erste der drei hat, gewinnt)
-- [ ] Projekt abschliessen und testen (z.B Fehler prüfen, Code aufräumen/kommentieren, im Browser ausführlich testen und final hochladen )
+- [x] Typescript mehr ausnutzen (Code ändern, dass er nicht in javascript ausführbar ist)
+- [x] Html seite erweitern (Feld erstellen auf dem man das spiel spielen kann)
+- [x] css datei erstellen (die seite schlich designen, sodass es nicht zu trocken wird)
+- [x] Spiellogik im Script erstellen (z.B der erste der drei hat, gewinnt)
+- [x] Projekt abschliessen und testen (z.B Fehler prüfen, Code aufräumen/kommentieren, im Browser ausführlich testen und final hochladen )
 
 
