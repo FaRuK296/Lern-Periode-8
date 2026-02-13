@@ -1,13 +1,9 @@
 ---
-Typescript RockPaperScissors Tutorial
+title: Typescript RockPaperScissors Tutorial
 ---
 
 # Goal
 In this tutorial you will learn, how to create a simple rock paper scissors game, using Typescript and run it in the browser.
-title: TypeScript RockPaperScissors Tutorial
-Goal
-
-In this tutorial, you will learn how to create a simple Rock-Paper-Scissors game using TypeScript and run it in the browser.
 
 Previous Knowledge
 
