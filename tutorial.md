@@ -1,24 +1,25 @@
 ---
-title: Mein Tutorial
+Typescript RockPaperScissors Tutorial
 ---
 
 # Goal
+In this tutorial you will learn, how to create a simple rock paper scissors game, using Typescript and run it in the browser.
 
-In this tutorial, you will learn how to create a simple console-based chess...
 
 # Previous Knowledge
+I'll assume you already know the basics, for example (if / if else...) of JavaScript / HTML
 
-We'll assume you already know the basics of C# and can...
 
 # What you'll learn
-
-We'll assume you already know the basics of C# and can...
+-What Typescript is and why it's useful
+-How to compile Typescript into Javascript
+-How to connect TypeScript with an HTML page
+-How to implement the game logic (including a "first to 3 points" mode)
 
 # Tutorial
 
-```csharp
-Console.WriteLine("This is a code snippet using ```")
-```
+
+
 
 # Result
 
