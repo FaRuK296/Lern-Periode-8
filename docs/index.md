@@ -105,6 +105,12 @@ The game displays:
 
 -Not handling uppercase/lowercase input
 
+## Demo
+
+Below you can see a demonstration of the game running in the browser:
+
+![ezgif-4ba7486892eb59e4](https://github.com/user-attachments/assets/ba46d37d-b2a1-424e-b58d-11209e499135)
+
 
 
 
