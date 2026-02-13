@@ -19,7 +19,7 @@ We'll assume you already know the basics of JavaScript and HTML (variables, if/e
 
 -How to implement the game logic (including a "first to 3 points" mode)
 
-**Tutorial**
+# Tutorial
 
 ## Step 1: Create the project files
 
@@ -36,7 +36,6 @@ Create the following files:
 Compile it using:
 
 tsc hello.ts
-
 
 This generates a hello.js file.
 
@@ -67,25 +66,20 @@ The game works as follows:
 
 **Example of checking the winner:**
 
-if (
-  (selection === "rock" && enemySelection === "scissors") ||
-  (selection === "scissors" && enemySelection === "paper") ||
-  (selection === "paper" && enemySelection === "rock")
-) {
-  playerScore++;
-}
+<img width="719" height="251" alt="image" src="https://github.com/user-attachments/assets/0851c45a-9ff7-40bf-8794-120fccef6b80" />
+
 
 ## Step 4: Connect TypeScript with HTML
 
 In your index.html file, include the compiled JavaScript file:
 
-<script src="hello.js"></script>
+<img width="483" height="39" alt="image" src="https://github.com/user-attachments/assets/4b6aa1c1-c87f-458c-a97e-98be8958d090" />
 
 
 Important: The browser cannot run .ts files directly.
 You must always compile TypeScript into JavaScript first.
 
-** Result
+## Result
 
 After opening the page in the browser, the user can play Rock-Paper-Scissors against a randomly generated opponent.
 
